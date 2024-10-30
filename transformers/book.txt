@@ -1,0 +1,7 @@
+ - BOOK
+Transformers for Natural Language Processing and Computer Vision:pdf
+with examples on github
+Share in NLP group: for positional encoding
+
+ - Web Pages
+https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
